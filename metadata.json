@@ -1,0 +1,6 @@
+{
+  "name": "TikVibe TikTok Downloader",
+  "description": "An optimized, high-speed TikTok downloader to save watermark-free videos (HD MP4) and extract MP3 audio files cleanly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
